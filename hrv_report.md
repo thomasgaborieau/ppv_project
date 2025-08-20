@@ -1,11 +1,4 @@
-# Heat Recovery Ventilation Study: Comprehensive Analysis Report
-
-## Executive Summary
-
-This report presents an analysis of indoor environmental conditions in 30 houses monitored over two winter seasons (2008 and 2009) in West Auckland, New Zealand. The study examined the effects of HRV (Heat Recovery Ventilation) units on temperature, relative humidity, and occupant comfort by comparing 20 active homes equipped with HRV units against 10 control homes without such systems.
-
 ---
-
 ## 1. Research Questions and Analysis
 
 ### Question 1: Outdoor Temperature Comparison Between Active and Control Home Locations
