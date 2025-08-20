@@ -1,0 +1,51 @@
+================================================================================
+QUESTION 5: ROOF CAVITY TEMPERATURE ANALYSIS REPORT
+================================================================================
+Analysis Date: 2025-08-20 23:37:05
+
+SUMMARY STATISTICS
+----------------------------------------
+   Year Week  Mean Hours  Median Hours  Std Hours  Min Hours  Max Hours  Houses > 0 hrs  Houses > 4 hrs  Houses > 8 hrs  Total Houses
+   2008    1       36.31         42.33      20.65       0.00      68.30              29              27              26            30
+   2008    2       48.87         42.70      31.20       8.23     166.67              30              30              30            30
+   2009    1       24.70         18.77      21.57       0.00      64.27              26              23              19            29
+   2009    2       25.34         25.17      18.42       0.00      60.57              28              23              22            30
+Overall    -       33.88         34.40      25.21       0.00     166.67             113             103              97           119
+
+KEY FINDINGS
+----------------------------------------
+1. FEASIBILITY:
+   - 113/119 houses (95.0%) achieved 18°C in roof cavity at some point
+
+2. DURATION:
+   - Average: 33.9 hours per day
+   - Median: 34.4 hours per day
+   - Range: 0.0 to 166.7 hours per day
+
+3. SEASONAL VARIATION:
+   - 2008: 42.6 ± 27.0 hours per day
+   - 2009: 25.0 ± 19.9 hours per day
+
+4. MONITORING PERIOD EFFECT:
+   - Week 1 average: 30.6 hours
+   - Week 2 average: 37.1 hours
+   - Difference: 6.5 hours
+
+5. DAYTIME ACHIEVEMENT:
+   - Average 46.3% of daytime hours above 18°C
+   - 64 houses exceeded 18°C for >50% of daytime
+
+6. YEAR COMPARISON (t-test):
+   - 2008: 42.59 ± 26.98 hours
+   - 2009: 25.03 ± 19.86 hours
+   - t-statistic: 4.038
+   - p-value: 0.0001
+   - Significant difference: 2008 had 17.6 more hours/day
+
+================================================================================
+CONCLUSION
+================================================================================
+YES, it is possible to reach 18°C in the roof cavity during winter.
+On average, roof cavities exceeded 18°C for 33.9 hours per day,
+with substantial variation between houses (25.2 hours std dev)
+and a clear seasonal progression from winter to spring.
