@@ -1,4 +1,4 @@
----
+
 ## 1. Research Questions and Analysis
 
 ### Question 1: Outdoor Temperature Comparison Between Active and Control Home Locations
