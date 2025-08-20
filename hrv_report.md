@@ -7,7 +7,7 @@
 
 #### Methodology
 
-The analysis extracted outdoor temperature data from the external temperature sensors for each house throughout the monitoring period. Houses numbered 5, 7, 12, 16, 17, 21, 23, 25, 28, and 30 were designated as control homes, while all others were classified as active homes. The analysis calculated overall daily means as well as separate daytime and nighttime averages using solar-based period classification, where periods with solar irradiance above 10 W/m² were classified as daytime.
+The analysis extracted outdoor temperature data from the external temperature sensors for each house throughout the monitoring period. Houses numbered 5, 7, 12, 16, 17, 21, 23, 25, 28, and 30 were designated as control homes, while all others were classified as active homes. The analysis calculated overall daily means as well as separate daytime and nighttime averages using solar-based period classification, where periods with strictly positive solar irradiance were classified as daytime.
 
 Statistical testing began with the Shapiro-Wilk test to assess normality of the temperature distributions. When both groups exhibited normal distributions, independent samples t-tests were applied. For non-normally distributed data, the Mann-Whitney U test was employed. Levene's test verified the homogeneity of variance assumption.
 
@@ -107,7 +107,7 @@ Statistically significant temperature differences were observed in living rooms 
 
 #### Methodology
 
-Each day was separated into daytime and nighttime periods based on solar irradiance measurements (threshold: 10 W/m²). Temperature measurements were averaged separately for each period. Period-specific t-tests were applied after confirming distributional assumptions.
+Each day was separated into daytime and nighttime periods based on solar irradiance measurements (threshold: 0/05 W/m²). Temperature measurements were averaged separately for each period. Period-specific t-tests were applied after confirming distributional assumptions.
 
 #### Results
 
