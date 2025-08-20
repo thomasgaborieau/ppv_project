@@ -174,16 +174,6 @@ Where:
 
 ## Usage
 
-### Running Individual Analyses
-
-```bash
-# Example: Run Question 1 analysis
-python scripts/question_01.py
-
-# Run all questions
-for i in {01..10}; do python scripts/question_$i.py; done
-```
-
 ### Using the Utilities
 
 ```python
@@ -231,26 +221,7 @@ Results are saved in the `results/` directory:
 - **Tables**: CSV and Excel formats for statistical results
 - **Reports**: HTML and PDF summary reports
 
-## Testing
 
-Run the test suite:
-
-```bash
-pytest tests/
-```
-
-## Contributing
-
-1. Create a feature branch: `git checkout -b feature-name`
-2. Make changes and commit: `git commit -am "Add feature"`
-3. Push to branch: `git push origin feature-name`
-4. Submit a pull request
-
-## License
-
-This project is for research purposes. Please contact the authors for usage permissions.
-
-## Contact
 
 For questions about the analysis or data, please contact the research team.
 
