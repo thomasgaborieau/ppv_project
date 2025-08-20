@@ -485,8 +485,3 @@ When conducting multiple statistical tests, the probability of Type I errors inc
 
 The analysis applied appropriate corrections for multiple testing while presenting both corrected and uncorrected p-values. Key results remained significant even after conservative corrections.
 
----
-
-## Conclusions
-
-The analysis of the Heat Recovery Ventilation study demonstrates that HRV units provided measurable improvements in indoor environmental conditions during winter months. Temperature benefits averaged 0.5-1.0°C warming in living rooms, with strongest effects during daytime periods. Humidity reductions of 2-3% relative humidity were observed consistently. The combined improvements resulted in increased time spent in comfort zones. Roof cavities achieved useful temperatures (>18°C) for approximately 20-35 hours per week during winter, with availability dependent on outdoor temperature above 14°C or solar irradiance exceeding 300 W/m².
